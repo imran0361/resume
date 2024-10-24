@@ -70,6 +70,7 @@ body {
   padding-left: 3rem;
   color: rgb(255, 98, 0);
   letter-spacing: 2px;
+  cursor:pointer;
 }
 .header .links {
   height: 100%;
